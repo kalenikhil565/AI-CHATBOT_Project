@@ -50,14 +50,13 @@ The **AI Healthcare Chatbot** is a smart conversational assistant designed to he
 
 ---
 
-## 📸 Screenshots
-### Chatbot Interface:
-![Chatbot UI](./screenshots/chatbot_ui.png)
+## 📸 Screenshots  
 
-### AI Model Processing:
-![AI Processing](./screenshots/ai_processing.png)
+### Chatbot User Interface  
+![Chatbot UI](./chatbot_ui.png)  
 
----
+### AI Processing  
+![AI Processing](./ai_processing.png)  
 
 ## 🔗 GitHub Repository
 [GitHub Link](https://github.com/yourusername/ai-healthcare-chatbot)
